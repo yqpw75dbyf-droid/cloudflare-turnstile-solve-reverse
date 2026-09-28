@@ -1,0 +1,6 @@
+{
+  "name": "cf_turnstile_js",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": { "jsdom": "29.1.1" }
+}

@@ -1,0 +1,55 @@
+{
+ "_note": "Parent (api.js) context từ capture thật cùng build (ch 330e41bb475c) — trang Roblox login.",
+ "au": "https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback&render=explicit",
+ "url": "https://www.roblox.com/vi/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fvi%2Fgames%2F100689340481763%2FMount-Sawit",
+ "parentOrigin": "https://www.roblox.com",
+ "wPr": {
+  "d.cT": [],
+  "ht.atrs": [
+   "lang"
+  ],
+  "pg.ref": "https://www.roblox.com/vi/games/100689340481763/Mount-Sawit",
+  "pi": {
+   "ffp": "nf",
+   "ii": false,
+   "lH": "https://www.roblox.com/vi/login?returnUrl=https%3A%2F%2Fwww.roblox.com%2Fvi%2Fgames%2F100689340481763%2FMount-Sawit",
+   "mL": 28,
+   "pac": "n",
+   "pad": "n|n|n|0|0|0|0|",
+   "pfp": "htm_la>scr_ty_as_sr>scr_sr_id>scr_sr>scr_sr>scr_sr>hea_da>sty>sty_ty>-t-ttit>-tmet_ht_co>-tmet_ch>-tmet_na_co>-tmet_na_co>-tmet_na_co>-tmet_na_co>-tmet_na_co>-tlin_re_hr>-tscr_ty>-tmet_ng>-tmet_na_da_da_da_da>-tmet_na_da_da_da_da_da_da_da_da_da_da_da_da_da_da_da_da_da_da_da_da_da>-tmet_na_da_da>-tmet_na_da_da_da_da_da_da_da_da_da_da>-tmet_na_da>-tmet_id_da>met_na_da_da_da_da_da_da_da_da_da>-tmet_na_da>-tmet_na_da>-tmet_na_da>-tmet_na_da>-tmet_na_da>-tmet_na_da>-tmet_na_da>-tmet_na_da>-tmet_na_da",
+   "sL": 199,
+   "sR": true,
+   "ssL": 42,
+   "t": "20|4239585337",
+   "tL": 505,
+   "vDa": "interaction-only",
+   "vDeh": true,
+   "vDhp": "wrapper",
+   "vDhr": "ai",
+   "vDie": true,
+   "vDmd": "managed",
+   "vDmt": "wrapper",
+   "vDrs": [],
+   "vDuh": false,
+   "vDvp": {
+    "height": 928,
+    "visibilityState": "visible",
+    "width": 676
+   },
+   "wp": "1221.21533203125|-9976.0078125",
+   "xp": "/div[14]/div[1]/div[1]/div[1]/div[1]"
+  },
+  "w.iW": 676
+ },
+ "csStack": "Error\n    at yo (https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback&render=explicit:2:20674)\n    at Ne (https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback&render=explicit:2:20805)\n    at Object.Se [as render] (https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback&render=explicit:2:76733)\n    at https://js.rbxcdn.com/3e21d91efd046e2fdd5740dd991c9f3f050908e8dff0602695efa089f27a19c0-Challenge.js:6:823265\n    at Object.<anonymous> (https://js.rbxcdn.com/3e21d91efd046e2fdd5740dd991c9f3f050908e8dff0602695efa089f27a19c0-Challenge.js:6:817110)\n    at Dt (https://js.rbxcdn.com/3e21d91efd046e2fdd5740dd991c9f3f050908e8dff0602695efa089f27a19c0-Challenge.js:6:813135)\n    at o (https://js.rbxcdn.com/3e21d91efd046e2fdd5740dd991c9f3f050908e8dff0602695efa089f27a19c0-Challenge.js:6:813333)\n    at https://js.rbxcdn.com/3e21d91efd046e2fdd5740dd991c9f3f050908e8dff0602695efa089f27a19c0-Challenge.js:6:813394\n    at new Promise (<anonymous>)\n    at https://js.rbxcdn.com/3e21d91efd046e2fdd5740dd991c9f3f050908e8dff0602695efa089f27a19c0-Challenge.js:6:813274\n    at https://js.rbxcdn.com/3e21d91efd046e2fdd5740dd991c9f3f050908e8dff0602695efa089f27a19c0-Challenge.js:6:823328\n    at ut (https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js:12:123991)\n    at t.unstable_runWithPriority (https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js:47:3894)\n    at ot (https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js:12:64197)\n    at a7 (https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js:12:123536)\n    at https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js:12:119727\n    at F (https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js:47:2954)\n    at k.port1.onmessage (https://js.rbxcdn.com/b1eec88f581c575b721433689f5e4e1b5b47ec1df1bfbe5595660480ba2b104c-React.js:47:1683)",
+ "params": {
+  "appearance": "interaction-only",
+  "execution": "render",
+  "retry": "auto",
+  "retry-interval": 8000,
+  "expiry-interval": 290000,
+  "language": "auto",
+  "refresh-expired": "auto",
+  "refresh-timeout": "auto"
+ }
+}

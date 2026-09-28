@@ -1,0 +1,4 @@
+{
+  "_note": "Persistent per-origin storage profile for challenges.cloudflare.com. Seed mc_acc_p from a real Chrome solve run then re-use here for returning-browser fidelity (dJYZ1).",
+  "localStorage": {}
+}

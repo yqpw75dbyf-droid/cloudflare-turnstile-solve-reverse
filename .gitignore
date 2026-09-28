@@ -1,0 +1,7 @@
+node_modules/
+solver/challenge_latest.html
+solver/shadow_interactive.html
+*.log
+*.heapsnapshot
+__pycache__/
+.vscode/
